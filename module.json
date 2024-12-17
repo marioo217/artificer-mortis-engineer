@@ -1,6 +1,7 @@
 {
   "id": "artificer-mortis-engineer",
   "title": "Artificer - Mortis Engineer",
+  "description": "Artificer subclass compatible with Steinhardt's Guide to the Eldritch Hunt. Credit goes to MonkeyDM.",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
@@ -22,6 +23,8 @@
       "flags": {}
     }
   ],
+  "readme": "README.md",
+	"license": "UNLICENSED",
   "packs": [
     {
       "name": "artificer-mortis-engineer",
