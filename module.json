@@ -1,0 +1,39 @@
+{
+  "id": "artificer-mortis-engineer",
+  "title": "Artificer - Mortis Engineer",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "sgeh-monkeydm",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Triple_M",
+      "discord": "triple_m.",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "artificer-mortis-engineer",
+      "label": "Artificer - Mortis Engineer",
+      "path": "packs/artificer-mortis-engineer",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
