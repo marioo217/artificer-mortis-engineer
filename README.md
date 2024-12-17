@@ -1,3 +1,5 @@
+Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.
+
 - You will need to previously have the Steinhardt's Foundry VTT Module for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
 
 - Just import everything in the carpet to your Items section and it should work. To add this subclass to your character, just drag Mortis Engineer to your sheet.
