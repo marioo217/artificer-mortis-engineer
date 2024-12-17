@@ -1,0 +1,21 @@
+- You will need to previously have the Steinhardt's Foundry VTT Module for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
+
+- Just import everything in the carpet to your Items section and it should work. To add this subclass to your character, just drag Mortis Engineer to your sheet.
+
+- The upgraded zombies and the flesh titan are not in the pack. Normal zombies and flesh titan are in their respective abilities (Galvanized Flesh and Flesh Titan). 
+  You just have to edit in the extra life, damage, speed and everything else necessary.
+
+- I added Witch Bolt, it isn't by default at my foundry for some reason. And of course for Negative Energy Flood, as that spell is from Xanathar's Guide.
+
+- When you reach lv. 5 don't forget to add System Overload to your zombies!
+
+- Corpse Bag added.
+
+
+
+Made by @triple_m. on Discord, feel free to ask me anything via DM or via the MonkeyDM's Discord server.
+I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT.
+This content is free at MonkeyDM's Patreon: https://www.patreon.com/monkeydm
+Check it out! He's got some other cool things there.
+I also recommend buying his book, Steinhardt’s Guide to the Eldritch Hunt, the one that this artificer subclass is compatible with.
+
