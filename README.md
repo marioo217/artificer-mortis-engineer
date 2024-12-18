@@ -4,7 +4,7 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
 
 - To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json" target="_blank" rel="noopener noreferrer">URL</a> into your Foundry server's module installer.
   
-- To add this subclass to your character, just drag Mortis Engineer to your sheet.
+- To add this subclass to your character, go to your Compendiums > Artificer - Mortis Engineer > and just drag Mortis Engineer to your sheet.
 
 - Your reanimated zombies and flesh titan are not in the pack. Normal zombies and Flesh Golem are linked in their respective abilities (Galvanized Flesh and Flesh Titan).
   Drag the linked Zombie or Flesh Golem to your Actors tab.
