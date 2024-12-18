@@ -27,7 +27,7 @@
 	"license": "UNLICENSED",
   "url": "https://github.com/marioo217/artificer-mortis-engineer",
   "manifest": "https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json",
-  "download": "https://github.com/marioo217/artificer-mortis-engineer/raw/main/artificer-mortis-engineer.rar",
+  "download": "https://github.com/marioo217/artificer-mortis-engineer/raw/main/artificer-mortis-engineer.zip",
   "packs": [
     {
       "name": "artificer-mortis-engineer",
