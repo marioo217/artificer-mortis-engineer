@@ -4,7 +4,7 @@
   "description": "Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "11",
     "verified": "12"
   },
   "relationships": {
@@ -27,7 +27,7 @@
 	"license": "UNLICENSED",
   "url": "https://github.com/marioo217/artificer-mortis-engineer",
   "manifest": "https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json",
-  "download": "",
+  "download": "https://github.com/marioo217/artificer-mortis-engineer/raw/main/artificer-mortis-engineer.rar",
   "packs": [
     {
       "name": "artificer-mortis-engineer",
