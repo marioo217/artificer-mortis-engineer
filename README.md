@@ -1,4 +1,4 @@
-Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.
+Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM. <a href="https://www.patreon.com/posts/artificer-mortis-117104352" target="_blank" rel="noopener noreferrer">Link</a> to MonkeyDM's Patreon post about the subclass.
 
 - You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt" target="_blank" rel="noopener noreferrer">Steinhardt's Foundry VTT Module</a> for this to properly work because of Steinhardt's spells (didn't added them for copyright reasons).
 
