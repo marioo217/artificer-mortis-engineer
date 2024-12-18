@@ -1,8 +1,8 @@
 Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.
 
-- You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt" target="_blank">Steinhardt's Foundry VTT Module</a> for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
+- You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt" target="_blank" rel="noopener noreferrer">Steinhardt's Foundry VTT Module</a> for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
 
-- To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json" target="_blank">URL</a> into your Foundry server's module installer.
+- To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json" target="_blank" rel="noopener noreferrer">URL</a> into your Foundry server's module installer.
   
 - To add this subclass to your character, just drag Mortis Engineer to your sheet.
 
@@ -20,9 +20,9 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
 
 Made by @triple_m. on Discord, feel free to ask me anything via DM or via the MonkeyDM's Discord server.<br/>
 I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT.<br/>
-This content is free at <a href="https://www.patreon.com/monkeydm" target="_blank">MonkeyDM's Patreon</a>. <br/>
+This content is free at <a href="https://www.patreon.com/monkeydm" target="_blank" rel="noopener noreferrer">MonkeyDM's Patreon</a>. <br/>
 Check it out! He's got some other cool things there.<br/>
-I also recommend buying his book, <a href="https://monkeydm.shop/collections/steinhardts-guide-to-the-eldritch-hunt-all" target="_blank">Steinhardt’s Guide to the Eldritch Hunt</a>, the one that this artificer subclass is compatible with.<br/><br/>
+I also recommend buying his book, <a href="https://monkeydm.shop/collections/steinhardts-guide-to-the-eldritch-hunt-all" target="_blank" rel="noopener noreferrer">Steinhardt’s Guide to the Eldritch Hunt</a>, the one that this artificer subclass is compatible with.<br/><br/>
 
 I will try to keep this module updated.
 
