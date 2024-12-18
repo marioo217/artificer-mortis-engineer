@@ -1,8 +1,10 @@
 Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.
 
-- You will need to previously have the Steinhardt's Foundry VTT Module for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
+- You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt">Steinhardt's Foundry VTT Module</a> for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
 
-- To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json">URL</a> into your Foundry server's module installer. To add this subclass to your character, just drag Mortis Engineer to your sheet.
+- To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json">URL</a> into your Foundry server's module installer.
+  
+- To add this subclass to your character, just drag Mortis Engineer to your sheet.
 
 - Your reanimated zombies and flesh titan are not in the pack. Normal zombies and Flesh Golem are linked in their respective abilities (Galvanized Flesh and Flesh Titan). 
   Drag the linked Zombie or Flesh Golem to your Actors tab.
@@ -20,5 +22,5 @@ Made by @triple_m. on Discord, feel free to ask me anything via DM or via the Mo
 I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT.
 This content is free at MonkeyDM's Patreon: https://www.patreon.com/monkeydm
 Check it out! He's got some other cool things there.
-I also recommend buying his book, Steinhardt’s Guide to the Eldritch Hunt, the one that this artificer subclass is compatible with.
+I also recommend buying his book, <a href="https://monkeydm.shop/collections/steinhardts-guide-to-the-eldritch-hunt-all">Steinhardt’s Guide to the Eldritch Hunt</a>, the one that this artificer subclass is compatible with.
 
