@@ -10,6 +10,8 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
   Drag the linked Zombie or Flesh Golem to your Actors tab.
   Then you just have to edit in the extra life, damage, speed and everything else necessary (probably there's a way to make it automatic but I didn't know how to do it sorry).
 
+- The damage on death of the zombie and flesh golem are in their respective features (Galvanized Flesh and Flesh Titan).
+
 - I added Witch Bolt, it isn't by default at foundry for some reason. Also Negative Energy Flood, as that spell is from Xanathar's Guide.
 
 - When you reach lv. 5 don't forget to add System Overload to your zombies!
