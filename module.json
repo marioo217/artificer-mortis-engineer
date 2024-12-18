@@ -25,6 +25,9 @@
   ],
   "readme": "README.md",
 	"license": "UNLICENSED",
+  "url": "https://github.com/marioo217/artificer-mortis-engineer",
+  "manifest": "https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json",
+  "download": "",
   "packs": [
     {
       "name": "artificer-mortis-engineer",

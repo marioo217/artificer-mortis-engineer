@@ -2,12 +2,13 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
 
 - You will need to previously have the Steinhardt's Foundry VTT Module for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
 
-- Just import everything in the carpet to your Items section and it should work. To add this subclass to your character, just drag Mortis Engineer to your sheet.
+- To add this subclass to your character, just drag Mortis Engineer to your sheet.
 
-- The upgraded zombies and the flesh titan are not in the pack. Normal zombies and flesh titan are in their respective abilities (Galvanized Flesh and Flesh Titan). 
-  You just have to edit in the extra life, damage, speed and everything else necessary.
+- Your reanimated zombies and flesh titan are not in the pack. Normal zombies and Flesh Golem are linked in their respective abilities (Galvanized Flesh and Flesh Titan). 
+  Drag the linked Zombie or Flesh Golem to your Actors tab.
+  Then you just have to edit in the extra life, damage, speed and everything else necessary (probably there's a way to make it automatic but I didn't know how to do it sorry).
 
-- I added Witch Bolt, it isn't by default at my foundry for some reason. And of course for Negative Energy Flood, as that spell is from Xanathar's Guide.
+- I added Witch Bolt, it isn't by default at my foundry for some reason. Also Negative Energy Flood, as that spell is from Xanathar's Guide.
 
 - When you reach lv. 5 don't forget to add System Overload to your zombies!
 
