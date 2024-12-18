@@ -1,6 +1,6 @@
 {
   "id": "artificer-mortis-engineer",
-  "title": "Artificer - Mortis Engineer - Foundry VTT",
+  "title": "Artificer - Mortis Engineer",
   "description": "Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.",
   "version": "1.0.0",
   "compatibility": {
