@@ -1,6 +1,6 @@
 Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM.
 
-- You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt" target="_blank" rel="noopener noreferrer">Steinhardt's Foundry VTT Module</a> for this to work because of Steinhardt's spells (didn't added them for copyright reasons).
+- You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt" target="_blank" rel="noopener noreferrer">Steinhardt's Foundry VTT Module</a> for this to properly work because of Steinhardt's spells (didn't added them for copyright reasons).
 
 - To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json" target="_blank" rel="noopener noreferrer">URL</a> into your Foundry server's module installer.
   
