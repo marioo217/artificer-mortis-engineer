@@ -21,7 +21,7 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
 
 
 Made by @triple_m. on Discord, feel free to ask me anything via DM or via the MonkeyDM's Discord server.<br/>
-I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT.<br/>
+I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT (he gave me the thumbs up).<br/>
 This content is free at <a href="https://www.patreon.com/monkeydm" target="_blank" rel="noopener noreferrer">MonkeyDM's Patreon</a>. <br/>
 Check it out! He's got some other cool things there.<br/>
 I also recommend buying his book, <a href="https://monkeydm.shop/collections/steinhardts-guide-to-the-eldritch-hunt-all" target="_blank" rel="noopener noreferrer">Steinhardt’s Guide to the Eldritch Hunt</a>, the one that this artificer subclass is compatible with.<br/><br/>
