@@ -6,8 +6,8 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
   
 - To add this subclass to your character, just drag Mortis Engineer to your sheet.
 
-- Your reanimated zombies and flesh titan are not in the pack. Normal zombies and Flesh Golem are linked in their respective abilities (Galvanized Flesh and Flesh Titan). 
-  Drag the linked Zombie or Flesh Golem to your Actors tab.
+- Your reanimated zombies and flesh titan are not in the pack. Normal zombies and Flesh Golem are linked in their respective abilities (Galvanized Flesh and Flesh Titan).<br/> 
+  Drag the linked Zombie or Flesh Golem to your Actors tab.<br/>
   Then you just have to edit in the extra life, damage, speed and everything else necessary (probably there's a way to make it automatic but I didn't know how to do it sorry).
 
 - I added Witch Bolt, it isn't by default at my foundry for some reason. Also Negative Energy Flood, as that spell is from Xanathar's Guide.
@@ -18,9 +18,9 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
 
 
 
-Made by @triple_m. on Discord, feel free to ask me anything via DM or via the MonkeyDM's Discord server.
-I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT.
-This content is free at MonkeyDM's Patreon: https://www.patreon.com/monkeydm
-Check it out! He's got some other cool things there.
+Made by @triple_m. on Discord, feel free to ask me anything via DM or via the MonkeyDM's Discord server.<br/>
+I'm not the owner of this subclass, that is MonkeyDM. I just made a port to Foundry VTT.<br/>
+This content is free at <a href="https://www.patreon.com/monkeydm">MonkeyDM's Patreon</a>. <br/>
+Check it out! He's got some other cool things there.<br/>
 I also recommend buying his book, <a href="https://monkeydm.shop/collections/steinhardts-guide-to-the-eldritch-hunt-all">Steinhardt’s Guide to the Eldritch Hunt</a>, the one that this artificer subclass is compatible with.
 
