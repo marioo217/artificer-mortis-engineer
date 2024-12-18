@@ -26,5 +26,5 @@ This content is free at <a href="https://www.patreon.com/monkeydm" target="_blan
 Check it out! He's got some other cool things there.<br/>
 I also recommend buying his book, <a href="https://monkeydm.shop/collections/steinhardts-guide-to-the-eldritch-hunt-all" target="_blank" rel="noopener noreferrer">Steinhardt’s Guide to the Eldritch Hunt</a>, the one that this artificer subclass is compatible with.<br/><br/>
 
-I will try to keep this module updated.
+I will try to keep this module updated for future Foundry version releases.
 
