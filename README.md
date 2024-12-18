@@ -12,7 +12,7 @@ Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the El
 
 - The damage on death of the zombie and flesh golem are in their respective features (Galvanized Flesh and Flesh Titan).
 
-- I added Witch Bolt, it isn't by default at foundry for some reason. Also Negative Energy Flood, as that spell is from Xanathar's Guide.
+- I couldn't add Witch Bolt and Negative Energy Flood, as those spells are Non-SRD content. To add them you will have to do it yourself.
 
 - When you reach lv. 5 don't forget to add System Overload to your zombies!
 
