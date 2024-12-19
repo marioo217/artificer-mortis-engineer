@@ -1,8 +1,8 @@
 Artificer subclass for Foundry VTT, compatible with Steinhardt's Guide to the Eldritch Hunt. Credit and ownership goes to MonkeyDM. <a href="https://www.patreon.com/posts/artificer-mortis-117104352" target="_blank" rel="noopener noreferrer">Link</a> to MonkeyDM's Patreon post about the subclass.
 
-- You will need to previously have the <a href="https://monkeydm.shop/products/steinhardts-guide-vtt" target="_blank" rel="noopener noreferrer">Steinhardt's Foundry VTT Module</a> for this to properly work because of Steinhardt's spells (didn't added them for copyright reasons).
+- You will need to previously have the <a href="https://foundryvtt.com/packages/sgeh-monkeydm" target="_blank" rel="noopener noreferrer">Steinhardt's Foundry VTT Module</a> for this to properly work because of Steinhardt's spells (didn't added them for copyright reasons).
 
-- To install the module paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json" target="_blank" rel="noopener noreferrer">URL</a> into your Foundry server's module installer.
+- To install the module just search it on your Foundry server's module installer (I got the <a href="https://foundryvtt.com/packages/artificer-mortis-engineer" target="_blank" rel="noopener noreferrer">module</a> official 🥳). To do it manually paste the manifest <a href="https://raw.githubusercontent.com/marioo217/artificer-mortis-engineer/main/module.json" target="_blank" rel="noopener noreferrer">URL</a> into your Foundry server's module installer.
   
 - To add this subclass to your character, go to your Compendiums > Artificer - Mortis Engineer > and just drag Mortis Engineer to your sheet.
 
